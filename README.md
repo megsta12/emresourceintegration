@@ -1,6 +1,6 @@
 # EMResource Integration Knowledge Base
 
-This repository is the central resource for anyone who has built or is currently building an integration with EMResource.
+This repository is the central resource for anyone who has built or is currently building an integration with EMResource. Information can be found under the Discussions tab.
 
 Since every organization's environment is unique (due to varying EMR/EHR systems, team skillsets, and software), you likely won't find a single guide that perfectly matches your environment. Instead, our goal is to collect diverse real-world experiences that provide the crucial pieces you need to successfully build your own integration.
 
