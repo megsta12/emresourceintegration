@@ -1,0 +1,46 @@
+title: "[Integration Show & Tell] "
+labels: ["show"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to this forum! Please fill out the following information.
+
+  - type: input
+    id: version
+    attributes:
+      label: EMR
+      description: What EMR are you using? Please include the version.
+      placeholder: 
+    validations:
+      required: true
+
+  - type: textarea
+    id: how
+    attributes:
+      label: EMR Extraction
+      description: Please describe exactly how you extracted the data from your EMR.
+      placeholder: 
+    validations:
+      required: true
+
+  - type: textarea
+    id: submission
+    attributes:
+      label: Submission
+      description: Describe exactly how you sent the data and what software tools you used.
+      value: |
+        1. 
+        2. 
+        3.
+    validations:
+      required: true
+
+    - type: textarea
+    id: automation
+    attributes:
+      label: Automation
+      description: How did you automate your submission?
+      placeholder: 
+    validations:
+      required: true
